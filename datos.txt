@@ -1,2 +1,3 @@
 Mi practica de Git y GitHub. Aprender a crear un repositorio local y sincronizarlo con GitHub 
 Esto fue escrito desde GitHub
+Esto fue escrito desde el repositorio local 
